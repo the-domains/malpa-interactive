@@ -1,0 +1,28 @@
+name: Malpa Interactive
+favicon: null
+layout_spectrum: 0.2684368737973273
+typography_spectrum: 0.18410080019384623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08463381533510983
+  lightness: 0.4084232032764703
+  saturation: 0.02282790536992252
+  rhythmicContrast: 0.23436179826967418
+purpose: []
