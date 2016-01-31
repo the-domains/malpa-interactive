@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Malpa Interactive]]></title>
         <description><![CDATA[Malpa Interactive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/malpa-interactive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 10:15:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 10:17:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/malpa-interactive/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sources of weakness in modern marketing]]></title>
+            <description><![CDATA[<article><h1>Sources of weakness in modern marketing</h1><p>It is more than a hundred years since John Wanamaker uttered the famous words:„Half the money I spend on advertising is wasted. The trouble is I do not know which half”. An IBM CMO study carried out last year among marketing directors reveals that not much has changed since that then:</p></article>]]></description>
+            <link>https://thegrid.ai/malpa-interactive/sources-of-weakness-in-modern-marketing/index.html</link>
+            <guid isPermaLink="false">238db492-539a-4fc8-9c8f-7abce4e89e10</guid>
+            <pubDate>Sun, 31 Jan 2016 10:17:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chi e perchè ha ideato Malpa Interactive?]]></title>
             <description><![CDATA[<article><h1>Chi e perchè ha ideato Malpa Interactive?</h1><p>Come prima cosa voglio presentarvi, in modo dettagliato i due "creatori" di questa nuova realtà con sede a Varsavia (Polonia).</p></article>]]></description>
-            <link>undefinedchi-e-perche-ha-ideato-malpa-interactive/index.html</link>
+            <link>https://thegrid.ai/malpa-interactive/chi-e-perche-ha-ideato-malpa-interactive/index.html</link>
             <guid isPermaLink="false">e145dc7a-0134-40e3-9992-90b89147bdaf</guid>
             <pubDate>Sun, 31 Jan 2016 10:15:03 GMT</pubDate>
         </item>
