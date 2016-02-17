@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T10:19:13.765Z'
-dateModified: '2016-01-31T10:19:05.417Z'
+datePublished: '2016-02-17T13:03:21.877Z'
+dateModified: '2016-02-17T13:03:17.559Z'
 title: New School of Marketing and new marketers
+author: []
+sourcePath: _posts/2016-01-31-new-school-of-marketing-and-new-marketers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-01-31-new-school-of-marketing-and-new-marketers.md
-published: true
 url: new-school-of-marketing-and-new-marketers/index.html
 _type: Article
 
