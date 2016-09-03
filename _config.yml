@@ -1,19 +1,4 @@
-name: Malpa Interactive
-favicon: null
-layout_spectrum: 0.75624
 typography_spectrum: 0.18410080019384623
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,23 @@ color:
   lightness: 0.4084232032764703
   saturation: 0.02282790536992252
   rhythmicContrast: 0.23436179826967418
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75624
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Magdalena
+  email: magdalena@malpainteractive.com
+name: Malpa Interactive
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Inbound Marketing Company
 purpose: []
